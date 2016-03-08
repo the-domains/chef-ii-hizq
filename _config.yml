@@ -1,0 +1,28 @@
+name: Chef II Hizq
+favicon: null
+layout_spectrum: 0.13980646757408977
+typography_spectrum: 0.7912403717637062
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.17103189998306334
+  lightness: 0.27835642150603235
+  saturation: 0.35240684263408184
+  rhythmicContrast: 0.5144937864970416
+purpose: []
