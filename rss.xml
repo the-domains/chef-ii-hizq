@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Chef II Hizq]]></title>
         <description><![CDATA[Chef II Hizq]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chef-ii-hizq/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 19:17:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 20:20:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chef-ii-hizq/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Post Punk Kitchen]]></title>
+            <description><![CDATA[<article><h1>Post Punk Kitchen</h1><p>by IsaChandra Serves 8 Total time: 1 hour || Active time: 1 hour "You got your nachos in my breakfast." "No, you got your breakfast in my nachos." OMG, it's breakfast nachos! These are loaded with all of the brunchy requirements: scrambled tofu, roasted potatoes, avocado salsa and a creamy, cheesy, cashew sauce.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f89d8c3f5b97e890e8f46b5a5198aaa9b76d7e4.jpg"></article>]]></description>
+            <link>http://www.theppk.com/2014/05/breakfast-nachos/</link>
+            <guid isPermaLink="false">b976a639-c349-421b-981c-138a40559269</guid>
+            <pubDate>Wed, 09 Mar 2016 20:19:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crispy Sweet Potatoe Cakes-Bal Arneson]]></title>
             <description><![CDATA[<article><h1>Crispy Sweet Potatoe Cakes-Bal Arneson</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1d12bea5aa54acb182cd727724dfa1e0e97eecab.jpg"></article>]]></description>
