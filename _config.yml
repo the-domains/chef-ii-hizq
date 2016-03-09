@@ -1,28 +1,40 @@
-name: Chef II Hizq
-favicon: null
-layout_spectrum: 0.13980646757408977
-typography_spectrum: 0.7912403717637062
-cta:
-  domain: null
-  bucket: null
-  version: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.17103189998306334
-  lightness: 0.27835642150603235
-  saturation: 0.35240684263408184
-  rhythmicContrast: 0.5144937864970416
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.8817204
+  brandStrength: 0.5430108
+  lightness: 0.8207885
+  brandColors:
+    - '#BDBCBD'
+    - '#151618'
+    - '#909A9B'
+    - '#4C3926'
+    - '#E9F8FC'
+  rhythmicContrast: 0.5537634
+typography_spectrum: 0.7912403717637062
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+favicon: null
+name: Chef II Hizq
