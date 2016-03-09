@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  favicon: null
-  url: 'http://m.cookingchanneltv.com'
-  name: Cookingchanneltv
-  domain: m.cookingchanneltv.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://m.cookingchanneltv.com/recipes/bal-arneson/crispy-sweet-potato-cakes.html'
+inLanguage: en
+starred: false
 keywords:
   - cilantro
   - masala
@@ -18,18 +17,20 @@ keywords:
   - garam
   - chickpea
 description: ''
-inLanguage: en
+datePublished: '2016-03-09T21:55:22.347Z'
+dateModified: '2016-03-09T21:55:00.247Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://m.cookingchanneltv.com/recipes/bal-arneson/crispy-sweet-potato-cakes.html'
 title: Crispy Sweet Potatoe Cakes-Bal Arneson
-datePublished: '2016-03-09T21:54:55.274Z'
-dateModified: '2016-03-09T19:27:28.248Z'
 sourcePath: _posts/2016-03-09-crispy-sweet-potatoe-cakes-bal-arneson.md
 published: true
-starred: false
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Cookingchanneltv
+  domain: m.cookingchanneltv.com
+  url: 'http://m.cookingchanneltv.com'
+  favicon: null
 _context: 'http://schema.org'
 _type: MediaObject
 
