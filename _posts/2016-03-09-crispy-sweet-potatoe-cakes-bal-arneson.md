@@ -2,9 +2,9 @@
 author: []
 related: []
 publisher:
+  favicon: null
   url: 'http://m.cookingchanneltv.com'
   name: Cookingchanneltv
-  favicon: null
   domain: m.cookingchanneltv.com
 keywords:
   - cilantro
@@ -22,10 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://m.cookingchanneltv.com/recipes/bal-arneson/crispy-sweet-potato-cakes.html'
 title: Crispy Sweet Potatoe Cakes-Bal Arneson
-datePublished: '2016-03-09T19:16:30.433Z'
-dateModified: '2016-03-09T19:16:01.011Z'
+datePublished: '2016-03-09T21:54:55.274Z'
+dateModified: '2016-03-09T19:27:28.248Z'
 sourcePath: _posts/2016-03-09-crispy-sweet-potatoe-cakes-bal-arneson.md
 published: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
